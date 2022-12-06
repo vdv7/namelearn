@@ -8,6 +8,14 @@ button {
     background-color: #def;
 }
 
+a {
+    display:block;
+}
+
+#folders {
+    margin:1em;
+}
+
 #screen {
     position:fixed;
     left:180px;
