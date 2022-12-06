@@ -1,0 +1,22 @@
+
+button {
+    margin-top:2em;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+    border:solid 1px grey;
+    background-color: #def;
+}
+
+#screen {
+    position:fixed;
+    left:180px;
+    top:0px;
+    height:100%;
+    width:100%;
+    background-color: brown;
+}
+
+.transparent {
+    opacity: 0;;
+}
